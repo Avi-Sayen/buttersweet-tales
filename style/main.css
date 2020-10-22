@@ -50,7 +50,8 @@ button:hover {
 
 /* Main Menu Buttons Styling */
 [data-screen="main"] button {
-
+ background: #C11784;
+ color: #ECECEC;
 }
 
 /**
